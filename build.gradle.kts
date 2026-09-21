@@ -32,7 +32,7 @@ publishing {
             name = "GitHubPackages"
 
             url = uri(
-                "https://maven.pkg.github.com/datcaotiendevops/github-packages-registry"
+                "https://maven.pkg.github.com/datcaotiendevops/github-package-registry"
             )
 
             credentials {
